@@ -17,9 +17,13 @@ How I Built ItI followed an 8-phase analytics lifecycle to turn raw data into bu
  Risk Identification: Pinpointed 14 "High Risk" items that needed immediate reordering to prevent production stops.
  
  Supplier Accountability: Highlighted Supplier_10 as the primary bottleneck (85% late rate).
+
+ 
  Business Recommendations
 
 Fix Logistics: Shift non-urgent cargo to Sea/Rail to save money.
+
+
 Smarter Inventory: Increase "Safety Stock" for items with long lead times.
 
 Better Contracts: Place low-performing suppliers on penalty-based contracts to improve reliability.
